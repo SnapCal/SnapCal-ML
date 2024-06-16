@@ -1,0 +1,41 @@
+names:
+- ayam-bakar
+- ayam-goreng
+- bakso
+- bandeng-goreng
+- bawal-goreng
+- bubur-ayam
+- gado
+- gorengan
+- gulai-kambing
+- lele-goreng
+- mie-ayam
+- nasi-goreng
+- nasi-putih
+- opor-ayam
+- rawon
+- rendang
+- roti
+- sambal-goreng-kentang
+- sate
+- seblak
+- sosis
+- soto-ayam
+- tahu
+- telur-balado
+- telur-goreng
+- tempe
+- tempe-orek
+- terong-balado
+- tumis-kangkung
+- tumis-tauge
+nc: 30
+roboflow:
+  license: CC BY 4.0
+  project: snapcal
+  url: https://universe.roboflow.com/raihan-aat3u/snapcal/dataset/1
+  version: 1
+  workspace: raihan-aat3u
+test: ../test/images
+train: /content/datasets/snapcal-1/train/images
+val: /content/datasets/snapcal-1/valid/images
