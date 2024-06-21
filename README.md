@@ -27,7 +27,7 @@ We use 2000 images consisting of 20 types of Indonesian food as a dataset
 
 ## Model Architecture
 
-![image](images\model.png)
+![image](images/model.png)
 
 ## Model Deployment
 
